@@ -199,11 +199,17 @@ This page is extremely useful for demand forecasting and business strategy.
 🛠️ Technologies & Skills Used
 
 Power BI Desktop
+
 DAX Calculations
+
 Power Query Data Cleaning
+
 Time Series Forecasting
+
 Data Modelling (Star Schema)
+
 Business Insights & Storytelling
+
 Interactive Visualizations
 
 Real-World Recommendations Based on Insights
